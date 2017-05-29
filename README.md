@@ -82,9 +82,14 @@ https://app.pluralsight.com/library/courses/javascript-development-environment/e
     * Notifications & integrations
     * Analytics and filtering
     * Price
-  
-  
 * __Production Deploy__
+  * Separating UI and API (frontend and backend)
+  * Cloud Hosting
+    * API (backend): Heroku
+    * UI (frontend): Surge (https://surge.sh/). Serves static files.
+    * Other static hosting
+      * https://www.netlify.com/
+
 
 ## Course data
 
